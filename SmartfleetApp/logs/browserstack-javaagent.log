@@ -1,0 +1,105 @@
+11:19:43.284 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+11:19:43.285 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.6.0
+11:19:43.372 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/abiramisundarapandian/Documents/RubixEclipseWorkspace/SmartfleetApp/browserstack.yml
+11:19:43.401 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:19:43.684 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://sample.app]
+11:19:43.684 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:19:56.121 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+11:20:06.236 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+11:20:09.002 [Surefire test-0@0] ERROR c.b.DriverServiceTransformer - [source error] newPageImpl() not found in com.microsoft.playwright.impl.BrowserContextImpl
+11:20:09.024 [Surefire test-0@0] ERROR c.b.DriverServiceTransformer - [source error] no such field: wsEndpoint
+11:20:51.633 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/mesomzbob7o60xmllstqej3nw5az6nr9ptlqp2h4 to view build report, insights, and many more debugging information all at one place!
+
+11:20:55.853 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+11:22:52.901 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+11:22:52.903 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.6.0
+11:22:52.992 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/abiramisundarapandian/Documents/RubixEclipseWorkspace/SmartfleetApp/browserstack.yml
+11:22:53.018 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:22:53.269 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://c0f7fb58da2572be3153c560f9e6e13efa1dfc2d]
+11:22:53.269 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:23:58.311 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+11:23:58.312 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+11:24:33.486 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: Request timed-out..
+11:24:33.487 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Initialization of BrowserStack Local failed Request timed-out..
+	at com.browserstack.LocalFactory.<init>(Unknown Source)
+	at com.browserstack.LocalFactory.createInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.d(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+11:24:33.487 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+15:28:50.292 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+15:28:50.294 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.6.0
+15:28:50.388 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/abiramisundarapandian/Documents/RubixEclipseWorkspace/SmartfleetApp/browserstack.yml
+15:28:50.418 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:28:50.682 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://c0f7fb58da2572be3153c560f9e6e13efa1dfc2d]
+15:28:50.682 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:29:03.469 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:29:14.509 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+15:29:14.536 [main] ERROR c.b.utils.GlobalExceptionHandler - Global SDK Exception - org.testng.TestNGException: 
+1.12.2 is not a supported TestNG version
+15:34:04.748 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+15:34:14.677 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/sseuuudyt7omw4iv4kgdtcgk35qiwq55hlhvnx6x to view build report, insights, and many more debugging information all at one place!
+
+16:48:55.236 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+16:48:55.238 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.6.0
+16:48:55.344 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/abiramisundarapandian/Documents/RubixEclipseWorkspace/SmartfleetApp/browserstack.yml
+16:48:55.374 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:48:55.675 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://c0f7fb58da2572be3153c560f9e6e13efa1dfc2d]
+16:48:55.675 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:49:11.625 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+16:49:39.591 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/aks39pz6rrtbobwpphmpwy0btb3fwyd7rv8ljeli to view build report, insights, and many more debugging information all at one place!
+
+16:49:40.741 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed org.json.JSONException: A JSONObject text must begin with '{' at 0 [character 1 line 1].
+16:49:40.741 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Initialization of BrowserStack Local failed A JSONObject text must begin with '{' at 0 [character 1 line 1].
+	at com.browserstack.LocalFactory.<init>(Unknown Source)
+	at com.browserstack.LocalFactory.createInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.d(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+16:52:29.322 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+16:52:29.324 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.6.0
+16:52:29.425 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/abiramisundarapandian/Documents/RubixEclipseWorkspace/SmartfleetApp/browserstack.yml
+16:52:29.456 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:52:29.748 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://c0f7fb58da2572be3153c560f9e6e13efa1dfc2d]
+16:52:29.748 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:53:07.302 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+16:53:09.226 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ej9umc9oko9mn3z7hhswux3opdrthay2gqhlltll to view build report, insights, and many more debugging information all at one place!
+
+17:06:40.208 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+17:06:40.210 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.6.0
+17:06:40.307 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/abiramisundarapandian/Documents/RubixEclipseWorkspace/SmartfleetApp/browserstack.yml
+17:06:40.333 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:06:40.557 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://c0f7fb58da2572be3153c560f9e6e13efa1dfc2d]
+17:06:40.557 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:06:55.091 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:06:55.104 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: java.io.IOException: Cannot run program "/Users/abiramisundarapandian/.browserstack/BrowserStackLocal": error=13, Permission denied.
+17:06:55.105 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Initialization of BrowserStack Local failed java.io.IOException: Cannot run program "/Users/abiramisundarapandian/.browserstack/BrowserStackLocal": error=13, Permission denied.
+	at com.browserstack.LocalFactory.<init>(Unknown Source)
+	at com.browserstack.LocalFactory.createInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.d(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+17:06:55.450 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/54g4mjhun4fmiyy35wa6xnwgltdnseoehybcfqgn to view build report, insights, and many more debugging information all at one place!
+

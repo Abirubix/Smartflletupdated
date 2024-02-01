@@ -1,0 +1,15 @@
+# Created at 2023-12-04T11:19:43.261
+SLF4J: Class path contains multiple SLF4J bindings.
+
+# Created at 2023-12-04T11:19:43.262
+SLF4J: Found binding in [jar:file:/Users/abiramisundarapandian/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.2/browserstack-java-sdk-1.12.2.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+
+# Created at 2023-12-04T11:19:43.262
+SLF4J: Found binding in [jar:file:/Users/abiramisundarapandian/.m2/repository/org/slf4j/slf4j-nop/1.7.28/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+
+# Created at 2023-12-04T11:19:43.262
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+
+# Created at 2023-12-04T11:19:43.262
+SLF4J: Actual binding is of type [ch.qos.logback.classic.util.ContextSelectorStaticBinder]
+

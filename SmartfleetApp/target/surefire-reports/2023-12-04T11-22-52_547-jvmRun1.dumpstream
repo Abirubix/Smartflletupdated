@@ -1,0 +1,3 @@
+# Created at 2023-12-04T11:23:58.320
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[[1;31mERROR[0;39m] [2023-12-04T05:53:58.310839Z][ OBSERVABILITY ] EXCEPTION IN launchTestSession REQUEST TO TEST OBSERVABILITY : java.net.UnknownHostException: collector-observability.browserstack.com: nodename nor servname provided, or not known'.
+

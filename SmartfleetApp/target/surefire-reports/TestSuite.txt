@@ -1,0 +1,40 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 12, Errors: 0, Skipped: 0, Time elapsed: 44.521 s <<< FAILURE! - in TestSuite
+runScenario(cucumberOptions.TestNGTestRunner)  Time elapsed: 11.659 s  <<< FAILURE!
+java.lang.IllegalArgumentException: Multiple entries with same key: appium:app=bs://sample.app and appium:app=bs://c0f7fb58da2572be3153c560f9e6e13efa1dfc2d
+
+runScenario(cucumberOptions.TestNGTestRunner)  Time elapsed: 0.281 s  <<< FAILURE!
+java.lang.IllegalArgumentException: Multiple entries with same key: appium:app=bs://sample.app and appium:app=bs://c0f7fb58da2572be3153c560f9e6e13efa1dfc2d
+
+runScenario(cucumberOptions.TestNGTestRunner)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.IllegalArgumentException: Multiple entries with same key: appium:app=bs://sample.app and appium:app=bs://c0f7fb58da2572be3153c560f9e6e13efa1dfc2d
+
+runScenario(cucumberOptions.TestNGTestRunner)  Time elapsed: 7.782 s  <<< FAILURE!
+java.lang.IllegalArgumentException: Multiple entries with same key: appium:app=bs://sample.app and appium:app=bs://c0f7fb58da2572be3153c560f9e6e13efa1dfc2d
+
+runScenario(cucumberOptions.TestNGTestRunner)  Time elapsed: 0.409 s  <<< FAILURE!
+java.lang.IllegalArgumentException: Multiple entries with same key: appium:app=bs://sample.app and appium:app=bs://c0f7fb58da2572be3153c560f9e6e13efa1dfc2d
+
+runScenario(cucumberOptions.TestNGTestRunner)  Time elapsed: 0.09 s  <<< FAILURE!
+java.lang.IllegalArgumentException: Multiple entries with same key: appium:app=bs://sample.app and appium:app=bs://c0f7fb58da2572be3153c560f9e6e13efa1dfc2d
+
+runScenario(cucumberOptions.TestNGTestRunner)  Time elapsed: 6.994 s  <<< FAILURE!
+java.lang.IllegalArgumentException: Multiple entries with same key: appium:app=bs://sample.app and appium:app=bs://c0f7fb58da2572be3153c560f9e6e13efa1dfc2d
+
+runScenario(cucumberOptions.TestNGTestRunner)  Time elapsed: 0.13 s  <<< FAILURE!
+java.lang.IllegalArgumentException: Multiple entries with same key: appium:app=bs://sample.app and appium:app=bs://c0f7fb58da2572be3153c560f9e6e13efa1dfc2d
+
+runScenario(cucumberOptions.TestNGTestRunner)  Time elapsed: 0.171 s  <<< FAILURE!
+java.lang.IllegalArgumentException: Multiple entries with same key: appium:app=bs://sample.app and appium:app=bs://c0f7fb58da2572be3153c560f9e6e13efa1dfc2d
+
+runScenario(cucumberOptions.TestNGTestRunner)  Time elapsed: 6.975 s  <<< FAILURE!
+java.lang.IllegalArgumentException: Multiple entries with same key: appium:app=bs://sample.app and appium:app=bs://c0f7fb58da2572be3153c560f9e6e13efa1dfc2d
+
+runScenario(cucumberOptions.TestNGTestRunner)  Time elapsed: 7.5 s  <<< FAILURE!
+java.lang.IllegalArgumentException: Multiple entries with same key: appium:app=bs://sample.app and appium:app=bs://c0f7fb58da2572be3153c560f9e6e13efa1dfc2d
+
+runScenario(cucumberOptions.TestNGTestRunner)  Time elapsed: 7.516 s  <<< FAILURE!
+java.lang.IllegalArgumentException: Multiple entries with same key: appium:app=bs://sample.app and appium:app=bs://c0f7fb58da2572be3153c560f9e6e13efa1dfc2d
+
